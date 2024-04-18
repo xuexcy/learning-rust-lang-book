@@ -1,1 +1,0 @@
-/Users/xuechengyun/code/rust/learning-rust-lang-book/chapter-2/generate_a_screte_number/target/debug/generate_a_screte_number: /Users/xuechengyun/code/rust/learning-rust-lang-book/chapter-2/generate_a_screte_number/src/main.rs
